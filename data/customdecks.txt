@@ -1,0 +1,38 @@
+//Updated: 09 Jun 2026 08:21:00
+
+Previous_Brawl: /Previous_Brawl_.*$/
+Previous_Brawl_Davinski._Predacons_1: Cain the Warden, Alpha Replicant, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC
+Previous_Brawl_jfk1973_Predacons_2: Barracus the Traitor, Alpha Loyal, Blaze Hog, Primal Yeren, Primal Yeren, Vatborn Tynosquid, Leriax Putrefier, Leriax Putrefier, Leriax Putrefier, Leriax Putrefier, Vlade's Meathook, Vlade's Meathook
+Previous_Brawl_dsuchka_Predacons_3: Full Metal Vulcan, Krellus' Nexus, Blaze Hog, Blaze Hog, Blaze Hog, Primal Yeren, Primal Yeren, Primal Yeren, Primal Yeren, Primal Yeren
+Previous_Brawl_NUBPWNER69_Predacons_4: Gaia the Purifier, Alpha Subjugator, Madmolgor, Madmolgor, Insatiable Gastrobront, Insatiable Gastrobront, Insatiable Gastrobront, Insatiable Gastrobront, Insatiable Gastrobront, Azmodian Betrayer, Azmodian Betrayer, Azmodian Betrayer
+Previous_Brawl_Pandalicious!_Predacons_5: Commandant Cyrus, Alpha Disintegrator, Cleric Transformer, Regen Station, Conservator Droid, Absolute Testament, Absolute Testament, Cardinal Vector, Cardinal Vector, Sanctuary Warden, Sanctuary Warden, Sanctuary Warden
+Previous_Brawl_BorisB37_Russia_6: Full Metal Vulcan, Krellus' Nexus, Lavawyrm, Blaze Hog, Primal Yeren, Blaze Hog, Immortal Vow, Primal Yeren
+Previous_Brawl_GePal_Ultracons_7: Terrogor the Ghost, Alpha Disintegrator, Vatborn Tynosquid, Leriax Putrefier, Vengeful Spectre, Vengeful Spectre, Vengeful Spectre, Vengeful Spectre, Vengeful Spectre, Vengeful Spectre
+Previous_Brawl_Nandrolone23_Russia_7: Terrogor the Ghost, Alpha Serrated, Vatborn Tynosquid, Leriax Putrefier, Leriax Putrefier, Leriax Putrefier, Leriax Putrefier, Raxil Cultivator, Raxil Cultivator, Leriax Putrefier, Vatborn Tynosquid, Vatborn Tynosquid
+Previous_Brawl_MasterPeng4_Ultracons_9: Full Metal Vulcan, Alpha Disintegrator, SkyCom Perfect, SkyCom Perfect, SkyCom Perfect, Obsidian Drillmine, Raxil Cultivator, Tunneler Drillmaster, Tunneler Drillmaster, Vengeful Spectre, Vengeful Spectre, Vengeful Spectre
+Previous_Brawl_Mordet_Russia_10: Full Metal Vulcan, Krellus' Nexus, Primal Yeren, Primal Yeren, Rebel Ranger, Immortal Vow, Blaze Hog, Cellblock Alpha, Red Sands Expatriate, Blaze Hog
+Previous_Brawl_sp3ctr3_Russia_10: Full Metal Vulcan, Krellus' Nexus, Blaze Hog, Optio Rebellious, Kor Blitz, Primal Yeren, Primal Yeren, Immortal Vow, Prixis Worldbender, Blaze Hog
+Previous_Brawl_Monkey_k_Predacons_12: Razogoth Immortal, Krellus' Nexus, Zashikinoz, Primal Yeren, Primal Yeren, Primal Yeren, Vatborn Tynosquid, Vatborn Tynosquid, Kraken of Terror, Surveillance UAV, Surveillance UAV
+Previous_Brawl_04ceyer_IrieRock_13: Typhon the Insane, Krellus' Nexus, Blaze Hog, Calamity Deathslayer, Calamity Deathslayer, Farren Foul-Tempered, Vondar Warseeker, Primal Yeren, Battlelord Guru, Battlelord Guru, Battlelord Guru, Battlelord Guru
+Previous_Brawl_Ken_Adams_Russia_14: Gaia the Purifier, Alpha Hardened, Cardinal Vector, Remus of Legend, Divine Guardian, Sanctuary Warden, Immortal Vow, Sanctuary Warden, Regen Station, Sanctuary Warden, Cardinal Vector, Cardinal Vector
+Previous_Brawl_Player1444271155_joelsarmy_15: Cain the Warden, Halcyon's Nexus, Co-operated Crawler, Tyrolian APC, Tabitha's Huntsman, Surveillance UAV, Master Trapper, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC
+
+
+
+
+Previous_Brawl_A: /Previous_Brawl_A_.*$/
+Previous_Brawl_A_Davinski._Predacons_1: Cain the Warden, Alpha Replicant, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC
+Previous_Brawl_A_jfk1973_Predacons_2: Battlemaster Krellus, Kleave's Nexus, Raxil Cultivator, Raxil Cultivator, Gate Pulser, Gate Pulser, Vizier's Gaze, Vizier's Gaze, Vizier's Gaze, Vengeful Spectre, Vengeful Spectre, Vengeful Spectre
+Previous_Brawl_A_dsuchka_Predacons_3: Barracus the Traitor, Alpha Disintegrator, Yurich's Observatory, Ezamit Tranq, Pharaoh Memnon, Pharaoh Memnon, Gate Materializer, Raxil Cultivator, Raxil Cultivator, Raxil Cultivator, Raxil Cultivator, Vatborn Tynosquid
+Previous_Brawl_A_NUBPWNER69_Predacons_4: Gaia the Purifier, Alpha Subjugator, Madmolgor, Madmolgor, Insatiable Gastrobront, Insatiable Gastrobront, Insatiable Gastrobront, Insatiable Gastrobront, Insatiable Gastrobront, Azmodian Betrayer, Azmodian Betrayer, Azmodian Betrayer
+Previous_Brawl_A_Pandalicious!_Predacons_5: Insurgent Malika, Kleave's Nexus, Regen Station, Pharaoh Memnon, Pharaoh Memnon, Pharaoh Memnon, Raxil Cultivator, Raxil Cultivator, Raxil Cultivator, Raxil Cultivator, Raxil Cultivator, Kozel the Deathless
+Previous_Brawl_A_GePal_Ultracons_7: Barracus the Traitor, Alpha Disintegrator, Pharaoh Memnon, Pharaoh Memnon, Raxil Cultivator, Raxil Cultivator, Vatborn Tynosquid, Leriax Putrefier, Leriax Putrefier, Vengeful Spectre, Vengeful Spectre, Vengeful Spectre
+Previous_Brawl_A_MasterPeng4_Ultracons_9: Full Metal Vulcan, Alpha Disintegrator, Zashikinoz, Prixis Worldbender, Kraken of Terror, Vlade's Meathook, Peacekeeper Unifier, Unified Barrage, Unified Barrage, Vengeful Spectre, Vengeful Spectre, Vengeful Spectre
+Previous_Brawl_A_Monkey_k_Predacons_12: Gaia the Purifier, Alpha Hardened, Regen Station, Madmolgor, Insatiable Gastrobront, Insatiable Gastrobront, Insatiable Gastrobront, Insatiable Gastrobront, Shatterbone Cyclops, Shatterbone Cyclops, Shatterbone Cyclops, Lavawyrm
+Previous_Brawl_A_04ceyer_IrieRock_13: Vyander Hazix, Krellus' Nexus, Xirtek Revealed, Invasive Covert, Invasive Covert, Pharaoh Memnon, Immortal Vow, Loki the Trickster, Loki the Trickster, Loki the Trickster, Vatborn Tynosquid, Leriax Putrefier
+Previous_Brawl_A_Player1444271155_joelsarmy_15: Cain the Warden, Halcyon's Nexus, Co-operated Crawler, Tyrolian APC, Tabitha's Huntsman, Surveillance UAV, Master Trapper, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC, Halcyon's APC
+Previous_Brawl_A_DrunkenBuck_Predacons_17: Full Metal Vulcan, Alpha Retainer, Regen Station, Kishar Stonespeaker, Kishar Stonespeaker, Kishar Stonespeaker, Kishar Stonespeaker, Insatiable Gastrobront, Insatiable Gastrobront, Shatterbone Cyclops, Shatterbone Cyclops, Malediction
+Previous_Brawl_A_Zabuden_IrieRock_18: Barracus the Traitor, Alpha Disintegrator, Zashikinoz, Rebel Ranger, Rebel Ranger, Prixis Worldbender, Immortal Vow, Tunneler Drillmaster, Peacekeeper Unifier, Unified Barrage, Slaver's Enfeebler, Slaver's Enfeebler
+Previous_Brawl_A_Bulzome69_NewForce_20: Yurich the Honorable, Alpha Terminus, Kor Blitz, Kor Blitz, Kor Blitz, Kor Blitz, Kor Blitz, Kor Blitz, Kor Blitz, Kor Blitz, Kor Blitz, Kor Blitz
+Previous_Brawl_A_Materaito_NewForce_21: Gaia the Purifier, Gaia's Nexus, Regen Station, Insatiable Gastrobront, Insatiable Gastrobront, Insatiable Gastrobront, Insatiable Gastrobront, Azmodian Betrayer, Azmodian Betrayer, Azmodian Betrayer, Lavawyrm, Gargantuan Scarab
+Previous_Brawl_A_Jay04653_Ultracons_23: Full Metal Vulcan, Alpha Disintegrator, Zashikinoz, Rebel Ranger, Rebel Ranger, Prixis Worldbender, Raxil Cultivator, Vlade's Meathook, Tunneler Drillmaster, Tunneler Drillmaster, Unified Barrage, Vengeful Spectre

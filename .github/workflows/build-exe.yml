@@ -1,0 +1,58 @@
+name: Build Windows exe
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install build dependencies
+        run: pip install pyinstaller urllib3 certifi
+
+      - name: Build exe
+        run: >
+          pyinstaller --onefile --windowed --name TUO_GUI
+          --icon icon.ico --add-data "icon.ico;." --add-data "app_icon.png;."
+          --hidden-import tu_inventory --collect-all certifi
+          run_sim_gui.py
+
+      # Bundle this repo's own tuo.exe with the GUI — one download, no
+      # stale game data (the app downloads fresh XMLs on first run).
+      - name: Build full bundle
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory bundle | Out-Null
+          Copy-Item dist/TUO_GUI.exe, tuo.exe, README.md, LICENSE, LICENSE-tuo.md bundle/
+          New-Item -ItemType Directory bundle/data | Out-Null
+          Copy-Item data/bges.txt bundle/data/
+          New-Item -ItemType Directory bundle/tuo_gui_data | Out-Null
+          Copy-Item tuo_gui_data/presets.json bundle/tuo_gui_data/
+          Compress-Archive -Path bundle/* -DestinationPath dist/TUO_GUI_full_win64.zip
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: TUO_GUI
+          path: |
+            dist/TUO_GUI.exe
+            dist/TUO_GUI_full_win64.zip
+
+      - name: Attach to release
+        if: startsWith(github.ref, 'refs/tags/')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/TUO_GUI.exe
+            dist/TUO_GUI_full_win64.zip

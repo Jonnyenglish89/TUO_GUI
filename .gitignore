@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller build output
+build/
+dist/
+*.spec
+
+# Game data — downloaded by the app on first run (tuo.exe IS committed:
+# it's this project's own build of tuo)
+data/*
+!data/bges.txt
+!data/presets.json
+!data/customdecks.txt
+*.pck
+old-xmls.d/
+
+# Personal data — NEVER commit (API credentials, settings, decks, results).
+# Only presets.json is shared: it's the community-tunable event presets.
+tuo_gui_data/*
+!tuo_gui_data/presets.json
+run_sim_gui_settings.json

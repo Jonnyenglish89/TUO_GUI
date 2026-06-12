@@ -1,0 +1,19 @@
+// Guild War BGEs
+Apocalypse: Mortar All 2; Enfeeble All 1; Strike All 1
+Artillery: Enhance Mortar 10; Mortar All 10
+Blightblast: Enfeeble All 5
+Charged Up: Overload All; Rally All 3; Strike All 3
+Combined Arms: Enhance All Coalition 2; Rally All 1; Enfeeble All 1; Strike All 2
+Divine Blessing: Heal All 4; Rally All 3; Strike All 4
+Emergency Aid: Enhance All Absorb 20; Heal All 10; Protect All 10
+Entrapment: Enhance All Counter 12; Entrap 12; Heal 12
+Inspired: Rally All 12
+Landmine: Entrap All 12; Weaken All 12
+Minor Setback: Weaken 8; Strike 8; Mimic 10
+Mirror Madness: Entrap All 10; Mimic 10
+Plasma Burst: Heal All 9; Protect All 9; Sunder 9
+Progenitor Tech: Heal All 1; Protect All 1; Rally All 1; Enfeeble All 1; Strike All 1; Weaken All 1
+Surgical Strike: Mortar 9; Strike 9; Weaken 9
+Tartarian Gift: Rally All 8; Enrage All 8
+Triage: Enhance All Fortify 10; Heal 15; Protect 15
+Winter Tempest: Enhance All Subdue 20; Protect All 10; Weaken All 10
